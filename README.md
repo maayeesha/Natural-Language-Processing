@@ -1,5 +1,5 @@
 # Natural-Language-Processing
-A repo where I keep track of my learning journey in NLP.
+A repo where I keep track of my learning journey in NLP from 2023-24
 # Natural Language Processing Learning Journey
 
 A repository documenting my learning and exploration of Natural Language Processing (NLP) concepts and techniques through Jupyter Notebooks.
